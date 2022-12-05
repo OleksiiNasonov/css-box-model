@@ -3,6 +3,7 @@ body{
     display: block;
     line-height: 1.2;
     max-width: 1440px;
+    margin: 0 auto;
 }
 *{transition: all .1s ease-in;}
 
@@ -80,11 +81,11 @@ body{
 }
 
 .text-main{
-font-weight: 400;
-font-size: 18px;
-line-height: 28px;
-color: #544837;
-margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #544837;
+    margin-bottom: 20px;
 }
 
 .intro{
